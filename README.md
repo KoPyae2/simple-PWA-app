@@ -1,13 +1,13 @@
+# To-Do List PWA
 
-## Getting Started
+A simple Progressive Web App (PWA) for managing a to-do list. This app allows users to add and remove tasks, with data persistence using localStorage.
 
-### Prerequisites
+## Features
 
-To run this application, you need a web server to serve the files. You can use tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for development purposes.
+- Add tasks to the to-do list.
+- Remove tasks from the to-do list.
+- Data persistence with localStorage.
+- Works offline as a Progressive Web App (PWA).
 
-### Installation
+## Folder Structure
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/pwa-todo-list.git
-   cd pwa-todo-list
