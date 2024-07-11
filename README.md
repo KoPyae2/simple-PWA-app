@@ -9,5 +9,3 @@ A simple Progressive Web App (PWA) for managing a to-do list. This app allows us
 - Data persistence with localStorage.
 - Works offline as a Progressive Web App (PWA).
 
-## Folder Structure
-
